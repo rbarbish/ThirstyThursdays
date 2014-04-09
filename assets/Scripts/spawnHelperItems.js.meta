@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f318fea4afcb8456b8da5209ac5c4426
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mShroom: {fileID: 100000, guid: 0d20c2cd4a9f246dcb517812552d308c, type: 2}
+  - mSyringe: {fileID: 100002, guid: aff39685cf81b4bb195b892404f6fe3d, type: 2}
+  - mLeftWall: {instanceID: 0}
+  - mRightWall: {instanceID: 0}
+  - mTopWall: {instanceID: 0}
+  - mBottomWall: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

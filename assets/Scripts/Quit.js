@@ -1,0 +1,5 @@
+
+function OnMouseUp () 
+{
+	Application.Quit();
+}

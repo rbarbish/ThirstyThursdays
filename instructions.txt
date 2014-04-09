@@ -1,0 +1,7 @@
+Instructions
+
+Player 1: WASD/Arrow Keys to move and hold shift to run
+Player 2: Use mouse and keyboard to place items
+
+-Syringes: Speed boost
+-Mushrooms: Lives
